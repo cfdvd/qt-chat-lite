@@ -1,4 +1,0 @@
-/home/zhb15/Desktop/note/new/build/CMakeFiles/cpp.dir
-/home/zhb15/Desktop/note/new/build/CMakeFiles/edit_cache.dir
-/home/zhb15/Desktop/note/new/build/CMakeFiles/rebuild_cache.dir
-/home/zhb15/Desktop/note/new/build/CMakeFiles/cpp_autogen.dir
